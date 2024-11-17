@@ -1,0 +1,9 @@
+# --- replit ---
+.replit
+replit.nix
+
+# --- jekyll ---
+
+_site
+.sass-cache
+.jekyll-metadata
